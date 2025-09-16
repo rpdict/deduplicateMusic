@@ -1,0 +1,1 @@
+ ``` go run ./cmd/audio-dedup -src testMusic -dst testMusic/out -workers 4 -threshold 8 -seconds 8 -v ``` 
